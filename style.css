@@ -1,0 +1,27 @@
+h1 {
+	text-align:center; 
+	font-family:sans-serif;
+	color: whitesmoke;
+}
+p {
+	font-family: sans-serif;
+	color: whitesmoke;
+}
+
+h2{
+	text-align:center;
+	font-family:sans-serif;
+	color: whitesmoke;
+}
+
+.Writing2 h2 {
+	color: black;
+}
+
+.Writing2 p {
+	color: black;
+}
+
+.NextPage p {
+	color: black;
+}
