@@ -14,14 +14,20 @@ h2{
 	color: whitesmoke;
 }
 
-.Writing2 h2 {
-	color: black;
+.box-left {
+	position: absolute;
+	left:  0px;
+	width: 46%;
+	padding: 2%;
 }
 
-.Writing2 p {
-	color: black;
+.box-right {
+	position: absolute;
+	left: 50%;
+	width:  46%;
+	padding:  2%;
 }
 
-.NextPage p {
-	color: black;
+#Intro {
+	font-family: cursive;
 }
