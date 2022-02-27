@@ -31,3 +31,22 @@ h2{
 #lower {
 	color: black;
 }
+
+.box {
+	display: flex;
+    flex-flow: row nowrap;
+    flex-direction:row;
+}
+
+
+
+
+
+<style>
+body {
+  background-image: url('file:///Users/laithhaddadin/Desktop/download-2.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
+</style>
