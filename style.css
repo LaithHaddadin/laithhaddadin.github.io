@@ -1,18 +1,24 @@
-h1 {
-	text-align:center; 
-	font-family:sans-serif;
-	color: whitesmoke;
+
+.box {
+	display: flex;
+    flex-flow: column; nowrap;
+    flex-direction:column;
 }
-p {
-	font-family: sans-serif;
-	color: whitesmoke;
+.box-1 {
+	display: flex;
+    flex-flow: row; nowrap;
+    flex-direction:row;
 }
 
-h2{
-	text-align:center;
-	font-family:sans-serif;
-	color: whitesmoke;
-}
+.one {
+        flex: 33.3%;
+      }
+.two {
+        flex: 33.3%;
+      }
+.three {
+        flex: 33.3%;
+      }
 
 .box-left {
 	position: absolute;
@@ -32,13 +38,21 @@ h2{
 	color: black;
 }
 
-.box {
-	display: flex;
-    flex-flow: row nowrap;
-    flex-direction:row;
+h1 {
+	text-align:center; 
+	font-family:sans-serif;
+	color: whitesmoke;
+}
+p {
+	font-family: sans-serif;
+	color: whitesmoke;
 }
 
-
+h2{
+	text-align:center;
+	font-family:sans-serif;
+	color: whitesmoke;
+}
 
 
 
